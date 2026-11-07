@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lawcomp.github.io/gazette/sitemap.xml
